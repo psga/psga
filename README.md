@@ -1,4 +1,4 @@
-![README Banner](banner.png)
+[![README Banner](banner.png)](https://psga.github.io/pusu/)
 
 <!--
 **psga/psga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
